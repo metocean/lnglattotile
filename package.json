@@ -1,6 +1,6 @@
 {
   "name": "lnglattotile",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert longitude, latitude and zoom level (lng, lat, zoom) to tile coordinates (x, y, z)",
   "main": "index.js",
   "scripts": {
