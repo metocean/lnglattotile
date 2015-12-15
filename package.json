@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/metocean/lnglattotile/issues"
   },
-  "homepage": "https://github.com/metocean/lnglattotile#readme"
+  "homepage": "https://github.com/metocean/lnglattotile#readme",
+  "dependencies": {
+    "lnglattotilefloat": "0.1.0"
+  }
 }
